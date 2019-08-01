@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.logs {
+  display: flex;
+  flex-flow: row;
+  border: black solid 1px;
+  width: 350px;
+  justify-content: space-around;
+  padding: 1rem;
+}
